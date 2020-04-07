@@ -15,4 +15,4 @@ This repository contains the final version of all talks given by Mirai Solutions
 |IDS 2017, Paris | [20170708_TechnicalSolutionsR](20170708_TechnicalSolutionsR.pdf) |
 |R in Finance 2017, Chicago | [20170520_CreditRisk_RFinance](20170520_CreditRisk_RFinance.pdf) |
 |R meet-up, Zurich | [20161208 R in Finance](20161208_Use_R_in_Finance.pdf) |
-|IDS 2016, London | [20160711_CreditRisk with rTRNG](20160711_CreditRisk with rTRNG.pdf) |
+|IDS 2016, London | [20160711_CreditRisk with rTRNG](20160711_CreditRisk_with_rTRNG.pdf) |
