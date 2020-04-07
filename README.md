@@ -3,7 +3,7 @@ Final version of talks given by Mirai Solutions in Conferences or Events
 
 |   Event    |        Presentation               |
 |------------|------------------------------------|
-|Use R 2019!, Toulouse | [20190710_Shiny App deployment](20190710_Shiny App deployment.pdf) |
+|Use R 2019!, Toulouse | [20190710_Shiny App deployment](20190710_ShinyAppDeploymentIntegration.pdf) |
 |Use R 2019!, Toulouse | [20190710_ CompareWith](20190710_ CompareWith.pdf) |
 |Oasis Conference, Zurich | [20190612 Open Source & Oasis UI]( 20190612_OpenSourceAnalytics_OasisUI.pdf) |
 |IDS 2019, Zurich | [20190614_TensorFlow](20190614_TensorFlow.pdf) |
