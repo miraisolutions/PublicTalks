@@ -1,8 +1,8 @@
 # PublicTalks
-This repository contains the final version of all talks given by Mirai Solutions (https://mirai-solutions.ch) in Conferences or Events.
+This repository contains the final static versions of talks given by Mirai Solutions (https://mirai-solutions.ch) at conferences or other events such as meetups.
 
 
-|   Event    |        Presentation               |
+|   Event    |        Presentation                |
 |------------|------------------------------------|
 |Use R 2019!, Toulouse | [20190710_Shiny App deployment](20190710_ShinyAppDeploymentIntegration.pdf) |
 |Use R 2019!, Toulouse | [20190710_ CompareWith](20190710_CompareWith.pdf.pdf) |
