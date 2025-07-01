@@ -4,11 +4,13 @@ This repository contains the final static versions of talks given by Mirai Solut
 
 |   Event    |        Presentation                |
 |------------|------------------------------------|
+|IDS 2025, London | [20250620_Agentic_AI_in_Insurance.pdf](20250620_Agentic_AI_in_Insurance.pdf) |
+|IDS 2023, London | [20230616_RiskExplorer.pdf](InsuranceDataScience2023/20230616_RiskExplorer.pdf) |
 |Use R 2019!, Toulouse | [20190710_Shiny App deployment](20190710_ShinyAppDeploymentIntegration.pdf) |
 |Use R 2019!, Toulouse | [20190710_CompareWith](20190710_CompareWith.pdf) |
-|Oasis Conference, Zurich | [20190612_Open Source & Oasis UI]( 20190612_OpenSourceAnalytics_OasisUI.pdf) |
 |IDS 2019, Zurich | [20190614_TensorFlow](20190614_TensorFlow.pdf) |
 |IDS 2019, Zurich | [20190614_ContagionModel](20190614_ContagionModel.pdf) |
+|Oasis Conference, Zurich | [20190612_Open Source & Oasis UI]( 20190612_OpenSourceAnalytics_OasisUI.pdf) |
 |IDS 2018, London | [20180716_ReinsuranceModelusingTensorFlow](20180716_ReinsuranceModelusingTensorFlow.pdf) |
 |eRum 2018, Budapest | [20180515_SmaRP](20180515_SmaRP.pdf) |
 |R meet-up, Zurich | [20180108_Sparklyr.pdf](20180108_Sparklyr.pdf) |
