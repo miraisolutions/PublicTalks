@@ -5,8 +5,8 @@ This repository contains the final static versions of talks given by Mirai Solut
 |   Event    |        Presentation                |
 |------------|------------------------------------|
 |IDS 2025, London | [20250620_Agentic_AI_in_Insurance](20250620_Agentic_AI_in_Insurance.pdf) |
-|IDS 2025, London | [20230721_Migrating_Shiny_live_from_RMarkdown_to_Quarto](20230721_Migrating_Shiny_live_from_RMarkdown_to_Quarto.pdf) |
-|BaselR, Basel | [20230616_RiskExplorer](InsuranceDataScience2023/20230616_RiskExplorer.pdf) |
+|BaselR 2025, Basel | [20230721_Migrating_Shiny_live_from_RMarkdown_to_Quarto](20230721_Migrating_Shiny_live_from_RMarkdown_to_Quarto.pdf) |
+|IDS 2025, London | [20230616_RiskExplorer](InsuranceDataScience2023/20230616_RiskExplorer.pdf) |
 |Use R 2019!, Toulouse | [20190710_Shiny App deployment](20190710_ShinyAppDeploymentIntegration.pdf) |
 |Use R 2019!, Toulouse | [20190710_CompareWith](20190710_CompareWith.pdf) |
 |IDS 2019, Zurich | [20190614_TensorFlow](20190614_TensorFlow.pdf) |
